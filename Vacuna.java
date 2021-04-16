@@ -62,5 +62,9 @@ public class Vacuna {
 	protected void setDurada(int durada) {
 		this.durada = durada;
 	}
+         
+         public Static void main(String args[]){
+          Vacuna v = new Vacuna();
+        } 
 
 }
